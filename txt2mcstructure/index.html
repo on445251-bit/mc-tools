@@ -29,6 +29,10 @@
 		}
 	</script>
 	<style>
+.credit-banner{text-align:center;padding:8px 16px;margin:4px auto 12px;max-width:800px}
+.credit-banner a{display:inline-block;padding:8px 20px;background:var(--bg-input,rgba(255,255,255,0.06));border:1px solid var(--border,rgba(255,255,255,0.12));border-radius:8px;color:var(--text-muted,#aaa);font-size:0.9rem;text-decoration:none;transition:all 0.2s}
+.credit-banner a:hover{color:var(--accent,#6c9);border-color:var(--accent,#6c);background:var(--bg-glass,rgba(255,255,255,0.1))}
+
 		input[type="number"]{width:5rem}
 		.midi-player{display:flex;gap:12px;margin-top:20px;flex-wrap:wrap}
 		.midi-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 24px;border-radius:8px;font-size:0.9rem;font-family:var(--font-mono);cursor:pointer;transition:all var(--transition-med);border:1px solid var(--border);background:var(--bg-glass);color:var(--text);backdrop-filter:blur(8px)}
@@ -51,6 +55,7 @@
 		<p class="page-desc">批量将txt文本中的指令转换为mcstructure结构文件，自动过滤 # 后面的注释内容</p>
 	</header>
 
+		<div class="credit-banner"><a href="https://github.com/Dislink/dislink.github.io" target="_blank" rel="noopener noreferrer">🔗 原项目仓库：Dislink/dislink.github.io</a></div>
 	<div class="page-container">
 		<div class="panel">
 			<div class="panel-title">📂 上传文件</div>
