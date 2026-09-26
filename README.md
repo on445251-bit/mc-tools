@@ -8,8 +8,8 @@
 **原项目**: [Dislink/dislink.github.io](https://github.com/Dislink/dislink.github.io#)  
 **原作者**: [Dislink](https://github.com/Dislink)
 
-这个是ex_evo fork的项目访问连接
-https://on445251-bit.github.io/mc-tools/
+这个是ex_evo fork的项目
+访问该链接可直接使用https://on445251-bit.github.io/mc-tools/
 
 main fork : https://github.com/WTW0915/mc-tools/tree/main
 
