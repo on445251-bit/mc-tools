@@ -8,6 +8,13 @@
 **原项目**: [Dislink/dislink.github.io](https://github.com/Dislink/dislink.github.io#)  
 **原作者**: [Dislink](https://github.com/Dislink)
 
+这个是ex_evo fork的项目访问连接
+https://on445251-bit.github.io/mc-tools/
+
+main fork : https://github.com/WTW0915/mc-tools/tree/main
+
+关闭聊天框指令输出信息提示
+/gamerule commandblockoutput false
 ---
 
 ##  项目简介
